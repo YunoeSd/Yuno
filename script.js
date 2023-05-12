@@ -41,5 +41,4 @@ function efectoHabilidades() {
         document.getElementById("cpp").classList.add("barra-progreso7");
         document.getElementById("cs").classList.add("barra-progreso8");
     }
-
 }
